@@ -1,10 +1,10 @@
 <p align="center">
     <a href="https://github.com/Kann05">
-      <img src="https://img.shields.io/badge/-Erkan%20Alaydinov-ff69b4" size="50px" alt="Erkan Alaydinov" /></a>
+      <img src="https://img.shields.io/badge/-Erkan%20Alaydinov-ff69b4" alt="Erkan Alaydinov" /></a>
   </p>
   <p align="center">
     <a href="https://github.com/Kann05/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Code%20web%20and%20app%20Lover;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Code%20Lover;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
   </p>
     <p style ="font-size:50px" dir="auto"><strong><code>(Future Developer/Gamer)</code></strong></p>
     <p dir="auto"> I am 17 years old that studies C sharp and typescript also plays League of Legends and Minecraft </p>
