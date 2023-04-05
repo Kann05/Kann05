@@ -1,9 +1,14 @@
-<article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-️-Kann05" class="anchor" aria-hidden="true" href="#️-forrest-knight"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="emoji" ></g-emoji> Kann</h1>
+<p align="center">
+    <a href="https://github.com/Kann05">
+      <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Erkan Alaydinov" /></a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Kann05/readme-typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Code%20web%20and%20app%20Lover;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  </p>
     <p style ="font-size:50px" dir="auto"><strong><code>(Future Developer/Gamer)</code></strong></p>
     <p dir="auto"> I am 17 years old that studies C sharp and typescript also plays League of Legends and Minecraft </p>
        <p align="left" dir="auto">
-          <a href="https://www.youtube.com/channel/UCNg3vtFysRL6mMEOOU0XKtg" rel="nofollow">
-             <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://camo.githubusercontent.com/1c347c0c3f45191dd9f4b408583c6870d05d31e04d848345bd2f84e84f887ada/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f796f75747562652f6368616e6e656c2f73756273637269626572732f55433257486a5044766245364f3332386e31375a476366673f636f6c6f723d253233453035443434266c6162656c3d535542534352494245266c6f676f3d766964656f266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d434534363330" data-canonical-src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNg3vtFysRL6mMEOOU0XKtg?color=%23E05D44&amp;label=SUBSCRIBE&amp;logo=video&amp;logoColor=white&amp;style=for-the-badge&amp;labelColor=CE4630" style="max-width: 100%;"></a>  
           <a href="https://github.com/Kann05?tab=followers">
              <img alt="followers" title="Follow me on Github" src="https://camo.githubusercontent.com/645e1ba86512362522916fcb4b4862fd029581268b93b40ab39a0dc873f936e1/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f466f72726573744b6e696768743f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d706572736f6e2d616464266c6162656c3d466f6c6c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/github/followers/Kann05?color=236ad3&amp;labelColor=1155ba&amp;style=for-the-badge&amp;logo=person-add&amp;label=Follow&amp;logoColor=white" style="max-width: 100%;"></a>
           <a href="https://github.com/Kann05?tab=repositories&amp;sort=stargazers&amp;sort=stargazers">
