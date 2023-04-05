@@ -16,7 +16,8 @@
   </p>
 <p align="center">
   <a href="https://www.youtube.com/c/xKUSA?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=subscribetesting"/></a>
+    
   <a href="https://github.com/Kann05?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kann05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/Kann05?tab=followers">
