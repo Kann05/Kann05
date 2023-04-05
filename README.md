@@ -4,7 +4,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/Kann05/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Code%20Lover;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></a>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Code%20Lover;17%20Years%20Old;Loves%20Gaming;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></a>
   </p>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCNg3vtFysRL6mMEOOU0XKtg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
