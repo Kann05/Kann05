@@ -15,11 +15,10 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 <p align="center">
-  <a href="https://www.youtube.com/c/xKUSA?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?
-   <a href="https://github.com/Kann05?tab=followers>
+   <a href="https://github.com/Kann05?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kann05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Kann05?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kann05?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
   <p align="left" dir="auto"><strong><code>(Future Developer/Gamer)</code></strong></p>
+  <hr> </hr>
