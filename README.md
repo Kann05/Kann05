@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Kann05">
-      <img src="https://img.shields.io/badge/-Erkan%20Alaydinov-ff69b4" alt="Erkan Alaydinov" /></a>
+      <img src="https://img.shields.io/badge/-Erkan%20Alaydinov-ff69b4" size="50px" alt="Erkan Alaydinov" /></a>
   </p>
   <p align="center">
     <a href="https://github.com/Kann05/readme-typing-svg">
