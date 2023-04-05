@@ -14,7 +14,7 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://discord.gg/CwbzHUBVve" alt="Discord" title="Discord Server for Coders"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    
+  </p>
 
     <p align="left" dir="auto"><strong><code>(Future Developer/Gamer)</code></strong></p>
     <hr> </hr>
