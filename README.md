@@ -44,7 +44,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kann05&show_icons=true&theme=radical&hide_border=true)
 
 <a href="https://github.com/Kann05">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kann05&layout=compact&theme=radical" alt="Top Langs" style="width: 500px; height: 250px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kann05&layout=compact&theme=radical&hide_border=true" alt="Top Langs" style="height: 250px;">
 </a>
 
 
