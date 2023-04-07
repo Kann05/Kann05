@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://github.com/Kann05">
-      <img src="https://img.shields.io/badge/-Erkan%20Alaydinov-ff69b4" alt="Erkan Alaydinov" />
-      <img src="https://readme-typing-svg.demolab.com/?lines=Erkan      Alaydinov&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></a>
+      <img src="https://readme-typing-svg.demolab.com/?lines=Erkan          Alaydinov&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/></a>
  </p>
   <p align="center">
     <a href="https://github.com/Kann05/readme-typing-svg">
