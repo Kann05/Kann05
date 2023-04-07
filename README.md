@@ -43,7 +43,7 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/Kann05" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kann05&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" style="width: 400px; height: 300px ;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kann05&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" style="width: 400px; height: 50px ;">
   </a>
   <a href="https://github.com/Kann05" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kann05&layout=compact&theme=radical&hide_border=true" alt="Top Langs" style="width: 400px; height: 190px;">
